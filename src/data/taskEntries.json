@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "status": "not done",
+        "taskTitle": "Complete homework",
+        "date": "2024-01-22",
+        "course": "Physics"
+    },
+    {
+        "id": 2,
+        "status": "done",
+        "taskTitle": "Review math notes",
+        "date": "2024-01-23",
+        "course": "Math"
+    },
+    {
+        "id": 3,
+        "status": "not done",
+        "taskTitle": "Prepare for physics quiz",
+        "date": "2024-01-25",
+        "course": "Physics"
+    },
+    {
+        "id": 4,
+        "status": "not done",
+        "taskTitle": "Solve math problems",
+        "date": "2024-01-24",
+        "course": "Math"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "teacher_id": "T001",
+        "name": "John Doe",
+        "gender": "M"
+    },
+    {
+        "id": 2,
+        "teacher_id": "T002",
+        "name": "Alice Smith",
+        "gender": "F"
+    },
+    {
+        "id": 3,
+        "teacher_id": "T003",
+        "name": "Bob Johnson",
+        "gender": "M"
+    },
+    {
+        "id": 4,
+        "teacher_id": "T004",
+        "name": "Eva Brown",
+        "gender": "F"
+    }
+]
