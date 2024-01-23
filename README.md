@@ -1,6 +1,6 @@
 # Homework Tracker
 
-![./homework-tracker-frontend.png]
+![frontend-screenshot](./homework-tracker-frontend.png)
 
 Homework Tracker is a mobile-first web application developed using React, Tailwind CSS, and CSS. It allows users to efficiently manage and track their homework tasks. The application includes features such as a course search bar, task categorization by Today, Tomorrow, and Later, time/date of tasks, course teacher information, and task tags.
 
