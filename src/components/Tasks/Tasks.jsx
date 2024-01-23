@@ -22,10 +22,6 @@ export default function Tasks({ selectedCourse }) {
     const tomorrowDate = new Date();
     tomorrowDate.setDate(todayDate.getDate() + 1);
 
-    // useEffect(() => {
-    //     setTaskEntriesData(taskEntries);
-    // }, [selectedCourse])
-
     const handleCheckboxClick = (taskId) => {
         const updateTasks = taskEntriesData.map(task => {
             if (task.id === taskId) {
@@ -50,11 +46,12 @@ export default function Tasks({ selectedCourse }) {
 
                     return (
                         <li className="flex list-none rounded-md border border-slate-200 mb-3 p-2 justify-between" key={task.id}>
-                            <div className="w-auto flex-col flex-grow">
-                                <div className="flex justify-between">
-                                    <p className="text-sm font-medium whitespace-nowrap overflow-hidden">{task.title}</p>
-
-                                    <div className="justify-center pl-3 flex">
+                            <div className="w-full">
+                                 <div className="flex gap-4">
+                                        <p className="flex w-full text-sm font-medium whitespace-nowrap overflow-hidden">
+                                            {task.title}
+                                        </p>
+                                    <div className=" w-6 flex-shrink-0">
                                         <Checkbox onClick={() => handleCheckboxClick(task.id)} defaultState={task.done} />
                                     </div>
                                 </div>
@@ -93,12 +90,13 @@ export default function Tasks({ selectedCourse }) {
                     const courseColors = colors.find(color => color.id === course.color_id);
 
                     return (
-                        <li className="flex list-none rounded-md border border-slate-200 mb-3 p-2 justify-between" key={task.id}>
-                            <div className="w-auto flex-col flex-grow">
-                                <div className="flex justify-between">
-                                    <p className="text-sm font-medium whitespace-nowrap overflow-hidden">{task.title}</p>
-
-                                    <div className="justify-center pl-3 flex">
+                        <li className=" list-none rounded-md border border-slate-200 mb-3 p-2" key={task.id}>
+                            <div className="w-full">
+                                <div className="flex gap-4">
+                                        <p className="flex w-full text-sm font-medium whitespace-nowrap overflow-hidden">
+                                            {task.title}
+                                        </p>
+                                    <div className=" w-6 flex-shrink-0">
                                         <Checkbox onClick={() => handleCheckboxClick(task.id)} defaultState={task.done} />
                                     </div>
                                 </div>
@@ -138,8 +136,8 @@ export default function Tasks({ selectedCourse }) {
 
                     return (
                         <li className="flex list-none rounded-md border border-slate-200 mb-3 p-2 justify-between" key={task.id}>
-                            <div className="w-auto flex-col flex-grow">
-                                <div className="flex justify-between">
+                            <div className="w-full">
+                               <div className="flex justify-between">
                                     <p className="text-sm font-medium whitespace-nowrap overflow-hidden">{task.title}</p>
 
                                     <div className="justify-center pl-3 flex">
