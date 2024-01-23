@@ -40,3 +40,17 @@ Include a link to a live demo or screenshots of your application to provide user
 
 - **CSS:** Additional custom styling to enhance the visual appeal and user experience.
 
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/homework-tracker.git
+   ```
+2. Install dependencies:
+
+    ```bash
+    cd homework-tracker
+    npm install
+    ```
+
