@@ -1,0 +1,68 @@
+[
+    {
+        "id": 23,
+        "name": "All",
+        "color_id": 1
+    },
+    {
+        "id": 1,
+        "name": "Physics",
+        "color_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Math",
+        "color_id": 2
+    },
+    {
+        "id": 3,
+        "name": "Chemistry",
+        "color_id": 3
+    },
+    {
+        "id": 4,
+        "name": "History",
+        "color_id": 4
+    },
+    {
+        "id": 5,
+        "name": "English Literature",
+        "color_id": 5
+    },
+    {
+        "id": 6,
+        "name": "Economics",
+        "color_id": 6
+    },
+    {
+        "id": 7,
+        "name": "Psychology",
+        "color_id": 7
+    },
+    {
+        "id": 8,
+        "name": "Geography",
+        "color_id": 8
+    },
+    {
+        "id": 9,
+        "name": "Sociology",
+        "color_id": 9
+    },
+    {
+        "id": 10,
+        "name": "Political Science",
+        "color_id": 10
+    },
+    {
+        "id": 11,
+        "name": "Philosophy",
+        "color_id": 10
+    },
+    {
+        "id": 12,
+        "name": "Art History",
+        "color_id": 4
+    }
+]
+

@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "name": "Homework",
+    "color": "#FF0000"
+  },
+  {
+    "id": 2,
+    "name": "Quizz",
+    "color": "#00FF00"
+  },
+  {
+    "id": 3,
+    "name": "Final",
+    "color": "#0000FF"
+  },
+  {
+    "id": 4,
+    "name": "Report",
+    "color": "#0000FF"
+  },
+  {
+    "id": 6,
+    "name": "Essay",
+    "color": "#0000FF"
+  },
+  {
+    "id": 7,
+    "name": "Presentation",
+    "color": "#FFFF00"
+  },
+  {
+    "id": 8,
+    "name": "Critique",
+    "color": "#0000FF"
+  },
+  {
+    "id": 9,
+    "name": "Inquiry",
+    "color": "#0000FF"
+  },
+  {
+    "id": 10,
+    "name": "Debate",
+    "color": "#0000FF"
+  },
+
+
+]
+

@@ -1,162 +1,156 @@
 [
     {
         "id": 1,
-        "status": "not done",
+        "done": false,
         "title": "Complete homework",
         "date": "2024-01-22T10:00:00",
-        "course": "Physics",
-        "teacher_id": "T001"
+        "course": 1,
+        "teacher_id": "T001",
+        "tags": ["homework"]
     },
     {
         "id": 2,
-        "status": "done",
+        "done": true,
         "title": "Review math notes",
         "date": "2024-01-22T14:30:00",
-        "course": "Math",
-        "teacher_id": "T002"
+        "course": 2,
+        "teacher_id": "T002",
+        "tags": ["read"]
     },
     {
         "id": 3,
-        "status": "not done",
+        "done": false,
         "title": "Prepare for physics quiz",
         "date": "2024-01-22T12:45:00",
-        "course": "Physics",
-        "teacher_id": "T001"
+        "course": 1,
+        "teacher_id": "T001",
+        "tags": ["quizz"]
     },
     {
         "id": 4,
-        "status": "not done",
+        "done": false,
         "title": "Solve math problems",
         "date": "2024-01-22T15:00:00",
-        "course": "Math",
-        "teacher_id": "T002"
+        "course": 2,
+        "teacher_id": "T002",
+        "tags": ["homework"]
     },
     {
         "id": 5,
-        "status": "done",
+        "done": true,
         "title": "Review math notes",
         "date": "2024-01-23T15:30:00",
-        "course": "Math",
-        "teacher_id": "T002"
+        "course": 2,
+        "teacher_id": "T002",
+        "tags": ["read"]
     },
     {
         "id": 6,
-        "status": "not done",
+        "done": false,
         "title": "Final 2: Electrodynamics",
         "date": "2024-01-25T12:45:00",
-        "course": "Physics",
-        "teacher_id": "T001"
+        "course": 1,
+        "teacher_id": "T001",
+        "tags": ["final"]
     },
     {
         "id": 7,
-        "status": "not done",
+        "done": false,
         "title": "Solve math problems",
         "date": "2024-01-24T14:00:00",
-        "course": "Math",
-        "teacher_id": "T002"
+        "course": 2,
+        "teacher_id": "T002",
+        "tags": ["homework"]
     },
     {
-        "id": 8,
-        "status": "not done",
-        "title": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-        "date": "2024-01-24T14:00:00",
-        "course": "Math",
-        "teacher_id": "T002"
+        "id": 25,
+        "done": false,
+        "title": "Chemistry Lab Report",
+        "date": "2024-02-11T11:45:00",
+        "course": 3,
+        "teacher_id": "T009",
+        "tags": ["report"]
     },
     {
-        "id": 9,
-        "status": "not done",
-        "title": "Task 9",
-        "date": "2024-01-25T08:30:00",
-        "course": "Physics",
-        "teacher_id": "T003"
+        "id": 26,
+        "done": true,
+        "title": "History Midterm Exam",
+        "date": "2024-02-12T13:30:00",
+        "course": 4,
+        "teacher_id": "T010",
+        "tags": ["exam"]
     },
     {
-        "id": 10,
-        "status": "done",
-        "title": "Task 10",
-        "date": "2024-01-26T11:15:00",
-        "course": "Math",
-        "teacher_id": "T004"
+        "id": 27,
+        "done": false,
+        "title": "English Literature Essay",
+        "date": "2024-02-13T15:45:00",
+        "course": 5,
+        "teacher_id": "T011",
+        "tags": ["essay"]
     },
     {
-        "id": 11,
-        "status": "not done",
-        "title": "Task 11",
-        "date": "2024-01-27T13:45:00",
-        "course": "Physics",
-        "teacher_id": "T001"
+        "id": 28,
+        "done": false,
+        "title": "Economics Research Paper",
+        "date": "2024-02-14T09:15:00",
+        "course": 6,
+        "teacher_id": "T012",
+        "tags": ["research", "paper"]
     },
     {
-        "id": 12,
-        "status": "not done",
-        "title": "Task 12",
-        "date": "2024-01-28T16:00:00",
-        "course": "Math",
-        "teacher_id": "T002"
+        "id": 29,
+        "done": true,
+        "title": "Psychology Group Presentation",
+        "date": "2024-02-15T14:00:00",
+        "course": 7,
+        "teacher_id": "T013",
+        "tags": ["presentation"]
     },
     {
-        "id": 13,
-        "status": "done",
-        "title": "Task 13",
-        "date": "2024-01-29T09:30:00",
-        "course": "Physics",
-        "teacher_id": "T003"
+        "id": 30,
+        "done": false,
+        "title": "Geography Field Trip Report",
+        "date": "2024-02-16T16:15:00",
+        "course": 8,
+        "teacher_id": "T014",
+        "tags": ["report"]
     },
     {
-        "id": 14,
-        "status": "not done",
-        "title": "Task 14",
-        "date": "2024-01-30T14:00:00",
-        "course": "Math",
-        "teacher_id": "T004"
+        "id": 31,
+        "done": false,
+        "title": "Sociology Case Study",
+        "date": "2024-02-17T08:45:00",
+        "course": 9,
+        "teacher_id": "T015",
+        "tags": ["case", "study"]
     },
     {
-        "id": 15,
-        "status": "not done",
-        "title": "Task 15",
-        "date": "2024-02-01T08:45:00",
-        "course": "Physics",
-        "teacher_id": "T001"
+        "id": 32,
+        "done": false,
+        "title": "Political Science Debate",
+        "date": "2024-02-18T12:00:00",
+        "course": 10,
+        "teacher_id": "T016",
+        "tags": ["debate"]
     },
     {
-        "id": 16,
-        "status": "not done",
-        "title": "Task 16",
-        "date": "2024-02-02T12:30:00",
-        "course": "Math",
-        "teacher_id": "T002"
+        "id": 33,
+        "done": true,
+        "title": "Philosophy Philosophical Inquiry",
+        "date": "2024-02-19T15:30:00",
+        "course": 11,
+        "teacher_id": "T017",
+        "tags": ["inquiry"]
     },
     {
-        "id": 17,
-        "status": "done",
-        "title": "Task 17",
-        "date": "2024-02-03T15:15:00",
-        "course": "Physics",
-        "teacher_id": "T003"
-    },
-    {
-        "id": 18,
-        "status": "not done",
-        "title": "Task 18",
-        "date": "2024-02-04T09:00:00",
-        "course": "Math",
-        "teacher_id": "T004"
-    },
-    {
-        "id": 19,
-        "status": "not done",
-        "title": "Task 19",
-        "date": "2024-02-05T14:30:00",
-        "course": "Physics",
-        "teacher_id": "T001"
-    },
-    {
-        "id": 20,
-        "status": "not done",
-        "title": "Task 20",
-        "date": "2024-02-06T16:45:00",
-        "course": "Math",
-        "teacher_id": "T002"
+        "id": 34,
+        "done": false,
+        "title": "Art History Art Critique",
+        "date": "2024-02-20T10:30:00",
+        "course": 12,
+        "teacher_id": "T018",
+        "tags": ["critique"]
     }
 ]
+

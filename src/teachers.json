@@ -22,5 +22,65 @@
         "teacher_id": "T004",
         "name": "Eva Brown",
         "gender": "F"
+    },
+    {
+        "id": 9,
+        "teacher_id": "T009",
+        "name": "Michael Williams",
+        "gender": "M"
+    },
+    {
+        "id": 10,
+        "teacher_id": "T010",
+        "name": "Sophie Davis",
+        "gender": "F"
+    },
+    {
+        "id": 11,
+        "teacher_id": "T011",
+        "name": "Robert Miller",
+        "gender": "M"
+    },
+    {
+        "id": 12,
+        "teacher_id": "T012",
+        "name": "Emma White",
+        "gender": "F"
+    },
+    {
+        "id": 13,
+        "teacher_id": "T013",
+        "name": "Christopher Harris",
+        "gender": "M"
+    },
+    {
+        "id": 14,
+        "teacher_id": "T014",
+        "name": "Olivia Robinson",
+        "gender": "F"
+    },
+    {
+        "id": 15,
+        "teacher_id": "T015",
+        "name": "Daniel Taylor",
+        "gender": "M"
+    },
+    {
+        "id": 16,
+        "teacher_id": "T016",
+        "name": "Sophia Brown",
+        "gender": "F"
+    },
+    {
+        "id": 17,
+        "teacher_id": "T017",
+        "name": "William Garcia",
+        "gender": "M"
+    },
+    {
+        "id": 18,
+        "teacher_id": "T018",
+        "name": "Mia Martinez",
+        "gender": "F"
     }
 ]

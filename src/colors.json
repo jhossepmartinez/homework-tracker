@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "font": "#01a6fb",
+        "bg": "#e5f6fe"
+    },
+    {
+        "id": 2,
+        "font": "#2f9d40",
+        "bg": "#eaf5eb"
+    },
+    {
+        "id": 3,
+        "font": "#e89040",
+        "bg": "#fcf3eb"
+    },
+    {
+        "id": 4,
+        "font": "#895ac6",
+        "bg": "#f3eef9"
+    },
+    {
+        "id": 5,
+        "font": "#d9534f",
+        "bg": "#f2dede"
+    },
+    {
+        "id": 6,
+        "font": "#0ea5e9",
+        "bg": "#e0f2fe"
+    },
+    {
+        "id": 7,
+        "font": "#f59e0b",
+        "bg": "#fef3c7"
+    },
+    {
+        "id": 8,
+        "font": "#4cae4c",
+        "bg": "#dff0d8"
+    },
+    {
+        "id": 9,
+        "font": "#d9534f",
+        "bg": "#f2dede"
+    },
+    {
+        "id": 10,
+        "font": "#475569",
+        "bg": "#cbd5e1"
+    }
+]
+
+
