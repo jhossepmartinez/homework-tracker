@@ -63,6 +63,15 @@
         "tags": ["homework"]
     },
     {
+        "id": 8,
+        "done": false,
+        "title": "Certamen 2: Metropologia y Sociologia en campos ",
+        "date": "2024-01-24T14:00:00",
+        "course": 2,
+        "teacher_id": "T002",
+        "tags": ["homework"]
+    },
+    {
         "id": 25,
         "done": false,
         "title": "Chemistry Lab Report",
