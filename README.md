@@ -11,8 +11,6 @@ Homework Tracker is a mobile-first web application developed using React, Tailwi
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -44,13 +42,28 @@ Include a link to a live demo or screenshots of your application to provide user
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/homework-tracker.git
-   ```
+    ```bash
+    git clone https://github.com/jhossepmartinez/homework-tracker.git
+    ```
+
 2. Install dependencies:
 
     ```bash
     cd homework-tracker
     npm install
     ```
+
+## Usage 
+
+1. Start development server
+
+    ```bash
+    npm run dev
+    ```
+
+2. Open your browser and go to `http://localhost:5173/` (Default react port) or check the local host in the terminal.
+
+3. Enable devTools and change to mobile view since some features are broken in desktop view.
+
+
 
