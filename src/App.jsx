@@ -13,7 +13,7 @@ function App() {
 
     return (
         <div className="flex justify-center">
-            <div className="flex-col justify-center mt-2 mx-4 font-inter lg:w-[420px] lg:h-[667px] overflow-auto">
+            <div className="flex-col justify-center mt-2 mx-4 font-inter sm:w-[450px] sm:h-[667px] overflow-auto">
                 <div>
                     <CourseNavbar selectedCourse={selectedCourse} onSelectCourse={handleSelectCourse} />
                 </div>
