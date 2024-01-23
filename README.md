@@ -1,6 +1,8 @@
-# Homework tracker
+## Homework Tracker
 
-Search by course
-
-Look up by time: Today, Tomorrow, Later
+### Key Components:
+**Course Selector**
+**Course Teacher**
+**Date of todo**
+**Tags**
 
