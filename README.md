@@ -14,7 +14,7 @@ Homework Tracker is a mobile-first web application developed using React, Tailwi
 
 ## Demo
 
-You can view the live demo of homework tracker here: ![Live Demo](https://main--illustrious-banoffee-9285e5.netlify.app/)
+You can view the live demo of homework tracker here: [Live Demo](https://main--illustrious-banoffee-9285e5.netlify.app/)
 
 ## Features
 
